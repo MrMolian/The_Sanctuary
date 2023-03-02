@@ -1,0 +1,12 @@
+body{
+    background: #0d1216;
+    font-family: 'League Spartan', sans-serif;
+}
+
+#message{
+    background: #cc334f;
+}
+
+#message:hover, #profil:hover{
+    background: rgba(204, 51, 79, 0.6);
+}

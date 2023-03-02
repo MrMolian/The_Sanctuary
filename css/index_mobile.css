@@ -1,0 +1,18 @@
+@media screen and (max-width: 1000px){
+    #box{
+        display: none;
+    }
+
+    h1{
+        font-size: 4.5em;
+    }
+
+    h2{
+        display: block;
+        font-size: 3em;
+    }
+
+    video{
+        display: block;
+    }
+}

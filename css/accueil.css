@@ -1,0 +1,30 @@
+#box{
+    width: 450px;
+    height: 40px;
+
+    background: #f4f4f4;
+    border: solid #cc334f 1px;
+    
+    display: flex;
+    justify-content: left;
+}
+body{
+    background: #0d1216;
+    font-family: 'League Spartan', sans-serif;
+}
+#Texte{
+    width: 450px;
+    height: 4Opx;
+
+    border: solid #cc334f 2px;
+
+    background: #5E6164;
+}
+#accueil{
+    background: #cc334f;
+}
+
+
+#message:hover, #profil:hover{
+    background: rgba(204, 51, 79, 0.6);
+}
